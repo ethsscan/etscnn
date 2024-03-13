@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GBNY77TNC6GLM5ALEU3LRGBBXR3HHRD4OVLPF7VNGEYP644GLD6CQ5UP"]
+ACCOUNTS=["GAVKJUTEUK7JUUQFYNCIJOJVS4NSU63YCAGMUVTSMGUN5CA4XEEFIETQ"]
 
 [DOCUMENTATION]
-ORG_NAME="American Express"
-ORG_URL="https://www.amex-stellar.com/"
-ORG_DESCRIPTION="American Express Company is an American bank holding company and multinational financial services corporation that specializes in payment cards."
-ORG_LOGO="https://www.amex-stellar.com/amex.png"
+ORG_NAME="Cash App"
+ORG_URL="https://www.cashapp-stellar.com/"
+ORG_DESCRIPTION="Cash App is a mobile payment service available in the United States and the United Kingdom that allows users to transfer money to one another using a mobile phone app."
+ORG_LOGO="https://www.cashapp-stellar.com/cashapp.jpg"
 
 
 [[CURRENCIES]]
-code="AMEX"
+code="CAXLM"
 status="live"
-display_decimals=7
-issuer="GBNY77TNC6GLM5ALEU3LRGBBXR3HHRD4OVLPF7VNGEYP644GLD6CQ5UP"
+display_decimals=4
+issuer="GAVKJUTEUK7JUUQFYNCIJOJVS4NSU63YCAGMUVTSMGUN5CA4XEEFIETQ"
 anchor_asset_type="crypto"
-name="American Express"
-desc="American Express Company is an American bank holding company and multinational financial services corporation that specializes in payment cards."
-image="https://www.amex-stellar.com/amex.png"
+name="Cash App XLM"
+desc="Buy now Cash App XLM and be one of the first to get into the App!"
+image="https://www.cashapp-stellar.com/cashapp.jpg"
