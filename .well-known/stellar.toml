@@ -1,20 +1,20 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GAVKJUTEUK7JUUQFYNCIJOJVS4NSU63YCAGMUVTSMGUN5CA4XEEFIETQ"]
+ACCOUNTS=["GAXDCEGPO7SO6UMCHE665GDR3C7WDLSHP6DDMHQVIV3QVPOXUFJJSBC7"]
 
 [DOCUMENTATION]
-ORG_NAME="Cash App"
-ORG_URL="https://www.cashapp-stellar.com/"
-ORG_DESCRIPTION="Cash App is a mobile payment service available in the United States and the United Kingdom that allows users to transfer money to one another using a mobile phone app."
-ORG_LOGO="https://www.cashapp-stellar.com/cashapp.jpg"
+ORG_NAME="Etherscan"
+ORG_URL="https://www.etherscan-stellar.com/"
+ORG_DESCRIPTION="Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform."
+ORG_LOGO="https://www.etherscan-stellar.com/eth.png"
 
 
 [[CURRENCIES]]
-code="CAXLM"
+code="ETHS"
 status="live"
-display_decimals=4
-issuer="GAVKJUTEUK7JUUQFYNCIJOJVS4NSU63YCAGMUVTSMGUN5CA4XEEFIETQ"
+display_decimals=7
+issuer="GAXDCEGPO7SO6UMCHE665GDR3C7WDLSHP6DDMHQVIV3QVPOXUFJJSBC7"
 anchor_asset_type="crypto"
-name="Cash App XLM"
-desc="Buy now Cash App XLM and be one of the first to get it into the App!"
-image="https://www.cashapp-stellar.com/cashapp.jpg"
+name="Etherscan"
+desc="Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform."
+image="https://www.etherscan-stellar.com/eth.png"
