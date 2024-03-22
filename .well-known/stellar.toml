@@ -1,6 +1,7 @@
 VERSION="2.2.1"
 
-ACCOUNTS=["GAXDCEGPO7SO6UMCHE665GDR3C7WDLSHP6DDMHQVIV3QVPOXUFJJSBC7"]
+ACCOUNTS=["GAXDCEGPO7SO6UMCHE665GDR3C7WDLSHP6DDMHQVIV3QVPOXUFJJSBC7",
+"GANZ46754OHSIWF52JREEKMVPRLZQEECJFOXBY25QFLAEU7LJXSWBK54"]
 
 [DOCUMENTATION]
 ORG_NAME="Etherscan"
@@ -18,3 +19,13 @@ anchor_asset_type="crypto"
 name="Etherscan"
 desc="Etherscan is a Block Explorer and Analytics Platform for Ethereum, a decentralized smart contracts platform."
 image="https://www.etherscan-stellar.com/eth.png"
+
+[[CURRENCIES]]
+code="ESK"
+status="live"
+display_decimals=7
+issuer="GANZ46754OHSIWF52JREEKMVPRLZQEECJFOXBY25QFLAEU7LJXSWBK54"
+anchor_asset_type="crypto"
+name="EtherSpark"
+desc="At the crossroads of innovation and utility, ESK offers a versatile platform for smart contracts and decentralized applications, ensuring a robust and dynamic environment."
+image="https://www.etherscan-stellar.com/esk.png"
